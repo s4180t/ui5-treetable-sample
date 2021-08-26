@@ -1,0 +1,37 @@
+[
+	{
+		"NodeID": 1,
+		"HierarchyLevel": 0,
+		"Description": "1",
+		"ParentNodeID": null,
+		"DrillState": "expanded"
+	},
+	{
+		"NodeID": 4,
+		"HierarchyLevel": 1,
+		"Description": "1.1",
+		"ParentNodeID": 1,
+		"DrillState": "leaf"
+	},
+	{
+		"NodeID": 5,
+		"HierarchyLevel": 1,
+		"Description": "1.2",
+		"ParentNodeID": 1,
+		"DrillState": "expanded"
+	},
+	{
+		"NodeID": 6,
+		"HierarchyLevel": 2,
+		"Description": "1.2.1",
+		"ParentNodeID": 5,
+		"DrillState": "leaf"
+	},
+	{
+		"NodeID": 7,
+		"HierarchyLevel": 2,
+		"Description": "1.2.2",
+		"ParentNodeID": 5,
+		"DrillState": "leaf"
+	}
+]
